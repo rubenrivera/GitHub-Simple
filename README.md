@@ -13,6 +13,8 @@ Indice:
     + [¿Y el Hub?](#y-el-hub)
     + [¿Entonces...?](#entonces)
     + [¿Cómo hago una cuenta?](#c%C3%B3mo-hago-una-cuenta)
+  - [Repositorios](#repositorios)
+  - [Fuentes documentales](#fuentes-documentales)
 
 --------------------------------------------------------------------------------
 
@@ -86,6 +88,18 @@ de texto llena tu `nombre de usuario`, `correo electrónico`, y `contraseña`.
 Si ya tienes un proyecto en el que estés trabajando, ve al repositorio.
 El enlace se debe de ver algo así:
 `http://github.com/usuario/nombre-del-repositorio`
+
+--------------------------------------------------------------------------------
+
+# Repositorios
+Es el lugar donde están todos los archivos del proyecto, incluyendo la
+documentación. Los repositorios pueden tener multiples colaboradores y pueden
+ser **publicos** o **privados**.
+
+Un repositorio se ve así:
+![Repositorio de GitHub](images/github-repository.png)
+
+Lo que más sobresale de la página es el **README**
 
 --------------------------------------------------------------------------------
 
