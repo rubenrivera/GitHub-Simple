@@ -18,6 +18,7 @@ Indice:
       * [Panel de Código](#panel-de-c%C3%B3digo)
     + [README](#readme)
       * [Desarrollo Guiado por README](#desarrollo-guiado-por-readme)
+      * [Contenido de un README](#contenido-de-un-readme)
   - [Fuentes documentales](#fuentes-documentales)
 
 --------------------------------------------------------------------------------
@@ -172,6 +173,40 @@ del proyecto.
 
 Además, es un esquema bastante sencillo para **aterrizar las ideas**.
 Facilita que se pueda **discutir** e **iterar** sin perder el rumbo.
+
+
+### Contenido de un README
+Un buen README debe tener al menos estos elementos:
+
+  - **Descripción**: ¿De qué trata el repositorio? ¿Por qué me debería importar?
+
+  - *Sociales*: (Opcional) Si tu proyecto tiene algún Blog, Twitter, etc. inclúyelos
+
+  - **Instrucciones de uso**: Proceso de instalación, comandos, interfaz gráfica, etc.
+
+  - **Dónde obtener ayuda**: Enlaces a documentación, Wiki, Foros, etc.
+
+  - **Guía de contribución**: Especifica formato del código, convenciones,
+  cómo abrir un ticket para seguimiento de problemas, cómo presentar los
+  cambios, etc. Normalmente se encuentra en un archivo aparte, nombrado
+  **CONTRIBUTING**. La función de esta sección es crear orden y facilitarle
+  el trabajo a quien mantiene el repositorio.
+
+  - **Lista de contribuidores**: Las personas que están atrás del proyecto.
+  Si son demasiadas, inclúyelas en un archivo aparte **CONTRIBUIDORES**.
+  *Puedes utilizar esta herramienta para darles un buen formato:*
+  [Generador de tabla de contribuidores](https://github.com/stoeffel/gh-contributors-table)
+
+  - **Fuentes**, **inspiración**: Da **reconocimiento** si utilizaste ideas o
+  material de otros proyectos. También les ayuda a los contribuyentes a tener una
+  perspectiva más amplia.
+
+  - **Licencia de uso**: Sólo por que tus archivos estén en internet, no
+  significa que sean libres de usar o de dominio público. Deja en claro qué
+  se puede hacer con los archivos y qué no. Si la licencia es muy larga,
+  inclúyela en un archivo que se llame **LICENSE**.
+
+*Si tienes duda respecto a las licencias de uso, visita:* http://choosealicense.com/
 
 --------------------------------------------------------------------------------
 
