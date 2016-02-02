@@ -17,6 +17,7 @@ Indice:
     + [Encabezado](#encabezado)
       * [Panel de Código](#panel-de-c%C3%B3digo)
     + [README](#readme)
+      * [Desarrollo Guiado por README](#desarrollo-guiado-por-readme)
   - [Fuentes documentales](#fuentes-documentales)
 
 --------------------------------------------------------------------------------
@@ -154,6 +155,23 @@ aquí debes de convencerlos.
 Normalmente las personas ven el README en un navegador, y para que no se vea
 como un simple texto, se le agrega formato utilizando
 [Markdown](https://es.wikipedia.org/wiki/Markdown) (de ahí viene la extención de archivo `.md`).
+
+
+### Desarrollo guiado por README
+El README es la [piedra angular](https://es.wikipedia.org/wiki/Piedra_angular) de un proyecto.
+
+![Mind blown](http://i.giphy.com/V0IdVIIW1y5d6.gif)
+
+Si empiezas por escribir un documento sencillo que sirva como introducción,
+quien colabore podrá tener siempre presente el **¿Por qué?** y **¿Para qué?**
+del proyecto, mejorando la **comunicación** y respaldando que todos estén
+apuntando a la misma dirección.
+
+Te ayudará a conocer **qué implementar** para cumplir los ideales
+del proyecto.
+
+Además, es un esquema bastante sencillo para **aterrizar las ideas**.
+Facilita que se pueda **discutir** e **iterar** sin perder el rumbo.
 
 --------------------------------------------------------------------------------
 
