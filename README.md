@@ -14,6 +14,8 @@ Indice:
     + [¿Entonces...?](#entonces)
     + [¿Cómo hago una cuenta?](#c%C3%B3mo-hago-una-cuenta)
   - [Repositorios](#repositorios)
+    + [Encabezado](#encabezado)
+      * [Panel de Código](#panel-de-c%C3%B3digo)
   - [Fuentes documentales](#fuentes-documentales)
 
 --------------------------------------------------------------------------------
@@ -99,7 +101,42 @@ ser **publicos** o **privados**.
 Un repositorio se ve así:
 ![Repositorio de GitHub](images/github-repository.png)
 
-Lo que más sobresale de la página es el **README**
+Repasaremos la interfaz del repositorio, empezando de arriba hacia abajo.
+
+
+## Encabezado
+![Encabezado](/images/github-repository-header.png)
+
+Contiene el **propietario** y el **nombre** del repositorio.
+
+También hay tres botones que representan acciones:
+
+  - ![Watch](/images/github-watch.png): Recibes notificaciones cuando hay algún
+  cambio en el proyecto. Sirve para estar al dia.
+
+  - ![Star](/images/github-star.png): Se utilizan para tener **fácil acceso** a
+  un proyecto, y para mostrarle tu amor al repositorio, similar a los **likes**
+  en Facebook :+1:.
+  *Si quieres ordenar tus Stars puedes utilizar [AstralApp](http://astralapp.com/)*
+
+  - ![Fork](/images/github-fork.png): Haces una **copia** del repositorio en tu
+  cuenta de GitHub. Así puedes hacer cambios sin afectar el original.
+  También te permite **sugerir cambios** y **traer actualizaciones** del original a tu *fork*.
+  Se utilizan para **iterar** sobre **ideas** e **implementaciones**
+  manteniendo el original intacto.
+
+Y una barra de navegación:
+![Barra de navegación en GitHub](/images/github-header-navbar.png)
+
+Vamos a explorar cada una de las pestañas, empezando por **Code**.
+
+
+### Panel de Código
+![Panel de código](/images/github-code-panel.png)
+
+Contiene una descripción corta del proyecto.
+Algunas métricas y acciones de **Git**.
+Y un listado de archivos que contiene el repositorio.
 
 --------------------------------------------------------------------------------
 
