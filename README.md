@@ -46,6 +46,15 @@ Una herramienta que facilita la colaboración:
 Ese sería un flujo de trabajo con **Git**. Las palabras que están en
 **negritas** es el nombre en inglés que se le da a esa acción.
 
+*Si son de los que olvidan los comandos de Git, aquí los pueden checar:*
+[Hoja de comandos de Git en español](https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/other-sheets/git-cheat-sheet-es.md)
+
+*Y si quieres meterle esteroides a tu Git, checa este enlace:*
+[Git Extras](https://github.com/tj/git-extras)
+
+*Por favor, traten de usar la guía de estilo:*
+[Guía de estilo de Git](https://github.com/agis-/git-style-guide)
+
 
 ## ¿Y el *Hub*?
 Un espacio *en linea* para tener un respaldo de tus proyectos.
@@ -82,3 +91,4 @@ El enlace se debe de ver algo así:
 
 # Fuentes documentales
   - [Explicación sencilla de Git](https://www.reddit.com/r/explainlikeimfive/comments/jgoxv/eli5_how_do_you_use_git_and_github/)
+  - [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)
