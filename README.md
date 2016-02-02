@@ -215,6 +215,7 @@ Un buen README debe tener al menos estos elementos:
   - [Explicación sencilla de Git](https://www.reddit.com/r/explainlikeimfive/comments/jgoxv/eli5_how_do_you_use_git_and_github/)
   - [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)
   - [Awesome README](https://github.com/matiassingers/awesome-readme)
+  - [Guías de GitHub](https://guides.github.com/)
 
 --------------------------------------------------------------------------------
 
