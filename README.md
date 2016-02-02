@@ -16,6 +16,7 @@ Indice:
   - [Repositorios](#repositorios)
     + [Encabezado](#encabezado)
       * [Panel de Código](#panel-de-c%C3%B3digo)
+    + [README](#readme)
   - [Fuentes documentales](#fuentes-documentales)
 
 --------------------------------------------------------------------------------
@@ -138,8 +139,25 @@ Contiene una descripción corta del proyecto.
 Algunas métricas y acciones de **Git**.
 Y un listado de archivos que contiene el repositorio.
 
+
+## README
+Es el documento que da la **bienvenida** a tu projecto.
+
+![README en GitHub](/images/github-readme.png)
+
+Se traduce del inglés como **LEEME**.
+
+Sirve como **introducción**, y es un buen lugar para **explicar** o **vender**
+tu idea. Si quieres que la gente **utilice** y/o **contribuya** a tu proyecto,
+aquí debes de convencerlos.
+
+Normalmente las personas ven el README en un navegador, y para que no se vea
+como un simple texto, se le agrega formato utilizando
+[Markdown](https://es.wikipedia.org/wiki/Markdown) (de ahí viene la extención de archivo `.md`).
+
 --------------------------------------------------------------------------------
 
 # Fuentes documentales
   - [Explicación sencilla de Git](https://www.reddit.com/r/explainlikeimfive/comments/jgoxv/eli5_how_do_you_use_git_and_github/)
   - [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)
+  - [Awesome README](https://github.com/matiassingers/awesome-readme)
