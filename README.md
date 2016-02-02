@@ -7,10 +7,18 @@ dónde empezar, esta guía es una buena introducción.
 El siguiente texto está dirigido a *investigadores, diseñadores, supervisores
 de proyectos, y demás roles que no tienen que ver directamente con programación.*
 
+Indice:
+  - [¿Qué es GitHub?](#qu%C3%A9-es-github)
+    + [¿Qué es Git?](#qu%C3%A9-es-git)
+    + [¿Y el Hub?](#y-el-hub)
+    + [¿Entonces...?](#entonces)
+    + [¿Cómo hago una cuenta?](#c%C3%B3mo-hago-una-cuenta)
+
 --------------------------------------------------------------------------------
 
 # ¿Qué es GitHub?
 Se puede entender como una palabra compuesta: **Git** y **Hub**.
+
 
 ## ¿Qué es Git?
 Una herramienta que facilita la colaboración:
@@ -38,8 +46,10 @@ Una herramienta que facilita la colaboración:
 Ese sería un flujo de trabajo con **Git**. Las palabras que están en
 **negritas** es el nombre en inglés que se le da a esa acción.
 
+
 ## ¿Y el *Hub*?
 Un espacio *en linea* para tener un respaldo de tus proyectos.
+
 
 ## ¿Entonces...?
 **GitHub** es *un espacio en linea para tener un respaldo de tus proyectos* que
@@ -55,10 +65,12 @@ Crear una cuenta en **GitHub** es gratuito, siempre y cuando tus proyectos sean
 abiertos al público. Si quieres restringir el acceso a tus proyectos puedes
 pagar por ello una subscripción mensual.
 
+
 ## ¿Cómo hago una cuenta?
 (github-homepage.jpg)
 
 Llenas los datos... y listo.
+
 
 ## ¿Y ahora qué hago?
 Si ya tienes un proyecto en el que estés trabajando, ve al repositorio.
