@@ -67,9 +67,10 @@ pagar por ello una subscripción mensual.
 
 
 ## ¿Cómo hago una cuenta?
-(github-homepage.jpg)
+Ingresa a la página principal de [Github](https://github.com) y en los campos
+de texto llena tu `nombre de usuario`, `correo electrónico`, y `contraseña`.
 
-Llenas los datos... y listo.
+![Página de inicio de GitHub](/images/github-home.png)
 
 
 ## ¿Y ahora qué hago?
@@ -79,5 +80,5 @@ El enlace se debe de ver algo así:
 
 --------------------------------------------------------------------------------
 
-# Fuentes documentales (sources):
+# Fuentes documentales
   - [Explicación sencilla de Git](https://www.reddit.com/r/explainlikeimfive/comments/jgoxv/eli5_how_do_you_use_git_and_github/)
