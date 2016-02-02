@@ -20,6 +20,7 @@ Indice:
       * [Desarrollo Guiado por README](#desarrollo-guiado-por-readme)
       * [Contenido de un README](#contenido-de-un-readme)
   - [Fuentes documentales](#fuentes-documentales)
+  - [Licencia de uso](#licencia-de-uso)
 
 --------------------------------------------------------------------------------
 
@@ -214,3 +215,9 @@ Un buen README debe tener al menos estos elementos:
   - [Explicación sencilla de Git](https://www.reddit.com/r/explainlikeimfive/comments/jgoxv/eli5_how_do_you_use_git_and_github/)
   - [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)
   - [Awesome README](https://github.com/matiassingers/awesome-readme)
+
+--------------------------------------------------------------------------------
+
+# Licencia de uso
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Github-Simple</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/mroutis/" property="cc:attributionName" rel="cc:attributionURL">MrOutis</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mroutis/github-simple" rel="dct:source">https://github.com/MrOutis/GitHub-Simple</a>.
