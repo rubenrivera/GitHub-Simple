@@ -25,3 +25,23 @@ Un espacio *en linea* para tener un respaldo de tus proyectos.
 ## ¿Entonces...?
 **GitHub** es *un espacio en linea para tener un respaldo de tus proyectos* que
 usen *Git*, enfocado a **proyectos de programación con código abierto**.
+
+Cuando digo *código abierto* me refiero a que la gente pueda ver cómo está
+construido el proyecto (ver el código fuente).
+
+Los proyectos están organizados en **repositorios**. Es un lugar donde se
+almacenan los archivos que conforman el proyecto.
+
+Crear una cuenta en **GitHub** es gratuito, siempre y cuando tus proyectos sean
+abiertos al público. Si quieres restringir el acceso a tus proyectos puedes
+pagar por ello una subscripción mensual.
+
+## ¿Cómo hago una cuenta?
+(github-homepage.jpg)
+
+Llenas los datos... y listo.
+
+## ¿Y ahora qué hago?
+Si ya tienes un proyecto en el que estés trabajando, ve al repositorio.
+El enlace se debe de ver algo así:
+`http://github.com/usuario/nombre-del-repositorio`
