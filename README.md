@@ -19,6 +19,11 @@ Indice:
     + [README](#readme)
       * [Desarrollo Guiado por README](#desarrollo-guiado-por-readme)
       * [Contenido de un README](#contenido-de-un-readme)
+  - [Gestionar un repositorio](#gestionar-un-repositorio)
+    + [Issues](#issues)
+    + [Labels](#labels)
+    + [Milestones](#milestones)
+    + [Herramientas alternativas](#herramientas-alternativas)
   - [Fuentes documentales](#fuentes-documentales)
   - [Licencia de uso](#licencia-de-uso)
 
@@ -208,6 +213,84 @@ Un buen README debe tener al menos estos elementos:
   inclúyela en un archivo que se llame **LICENSE**.
 
 *Si tienes duda respecto a las licencias de uso, visita:* http://choosealicense.com/
+
+--------------------------------------------------------------------------------
+
+# Gestionar un repositorio
+
+> La mayoría de los problemas de nuestro trabajo no son tanto técnicos como sociológicos en su naturaleza.
+>   - [Peopleware: Productive Projects and Teams](http://www.amazon.com/Peopleware-Productive-Projects-Teams-Edition/dp/0321934113)
+
+Uno de los retos más grandes de un proyecto *open source*, es lidiar con
+las personas.
+Cuando facilitas la comunicación, haciendo **explícitas** las **tareas**
+y **metas** que se quieren cumplir, no suele ser tan complicado.
+
+Para ésto, hay metodologías que se pueden seguir, la más utilizada
+en el desarrollo de software es la [ágil](https://es.wikipedia.org/wiki/Desarrollo_%C3%A1gil_de_software)
+
+Una vez que escribes una definición del proyecto ([README](#readme)),
+puedes empezar a definir **tareas** y **metas** explícitas.
+
+Algunas herramientas de  **GitHub** te permiten tener todo centralizado:
+
+  - **Issues**: Tareas que se necesiten cumplir, ya sea arreglar un problema
+  o agregar una mejora al proyecto.
+
+  - **Labels**: Etiquetas para categorizar las tareas
+
+  - **Milestones**: Metas u objetivos, están compuestos de muchas tareas.
+
+  - **Pull requests**: **Petición de algún cambio**, ya sea agregar o quitar
+  información del repositorio (archivos, lineas de código, arreglar errores,
+    implementar mejoras, etc.)
+
+
+## Issues
+Si le damos click en la pestaña de *Issues*:
+![Github issues tab](/images/github-header-navbar-issues.png)
+
+Nos aparecerá una página similar a esta:
+![Github issues page](/images/github-issues.png)
+
+Ahí pueden empezar a crear tareas. La interfaz es muy simple, sólo recuerden
+ser **explícitos** a la hora de nombrar y describir las tareas.
+Estas pueden ser [historias de usuario](https://es.wikipedia.org/wiki/Historias_de_usuario),
+necesidades del proyecto, etc. Para seguir un estandar, se utiliza la **Guía de
+contribución**. Tengan en cuenta a quién va dirigida la tarea, incluye
+referencias explicando **qué quieres** y **cómo lo quieres**.
+
+Después de que hayan escrito algunas, se verán algo así:
+![Github open issues](/images/github-open-issues.png)
+
+
+## Labels
+Se traduce al español como **etiquetas**, sirve para categorizar tareas.
+La pantalla se ve algo así, ahí pueden agregar, editar, y eliminar etiquetas:
+![Github Labels](/images/github-labels.png)
+
+
+## Milestones
+En sí, es un conjunto de tareas. Puede ser un lanzamiento, una
+módulo del proyecto, una revisión, etc. Incluyen una **descripción**,
+**fecha**, y las **tareas** que se necesitan cumplir para lograr ese objetivo.
+
+Se puede decir que los **issues** son metas a corto plazo y los **milestones**
+son a largo plazo.
+
+La pantalla de los milestones se ve algo similar:
+![Github Milestones](/images/github-milestones.png)
+
+
+## Herramientas alternativas
+Existen herramientas que te pueden ayudar a administrar mejor tu repositorio.
+Si estás acostumbrado a utilizar un [Kanban](https://es.wikipedia.org/wiki/Kanban)
+para tus tareas, puedes utilizar [Waffle.io](https://waffle.io/).
+
+Puedes encontrar más integraciones de GitHub en: https://github.com/integrations
+
+*El consumo excesivo de integraciones puede ser dañino para
+la salud de un proyecto. Integra con medida.*
 
 --------------------------------------------------------------------------------
 
