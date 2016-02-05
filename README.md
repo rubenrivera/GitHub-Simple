@@ -20,6 +20,7 @@ Indice:
       * [Desarrollo Guiado por README](#desarrollo-guiado-por-readme)
       * [Contenido de un README](#contenido-de-un-readme)
   - [Gestionar un repositorio](#gestionar-un-repositorio)
+    + [Issues](#issues)
   - [Fuentes documentales](#fuentes-documentales)
   - [Licencia de uso](#licencia-de-uso)
 
@@ -240,6 +241,24 @@ Algunas herramientas de  **GitHub** te permiten tener todo centralizado:
   - **Pull requests**: **Petición de algún cambio**, ya sea agregar o quitar
   información del repositorio (archivos, lineas de código, arreglar errores,
     implementar mejoras, etc.)
+
+
+## Issues
+Si le damos click en la pestaña de *Issues*:
+![Github issues tab](/images/github-header-navbar-issues.png)
+
+Nos aparecerá una página similar a esta:
+![Github issues page](/images/github-issues.png)
+
+Ahí pueden empezar a crear tareas. La interfaz es muy simple, sólo recuerden
+ser **explícitos** a la hora de nombrar y describir las tareas.
+Estas pueden ser [historias de usuario](https://es.wikipedia.org/wiki/Historias_de_usuario),
+necesidades del proyecto, etc. Para seguir un estandar, se utiliza la **Guía de
+contribución**. Tengan en cuenta a quién va dirigida la tarea, incluye
+referencias explicando **qué quieres** y **cómo lo quieres**.
+
+Después de que hayan escrito algunas, se verán algo así:
+![Github open issues](/images/github-open-issues.png)
 
 --------------------------------------------------------------------------------
 
