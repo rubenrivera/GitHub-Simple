@@ -19,6 +19,7 @@ Indice:
     + [README](#readme)
       * [Desarrollo Guiado por README](#desarrollo-guiado-por-readme)
       * [Contenido de un README](#contenido-de-un-readme)
+  - [Gestionar un repositorio](#gestionar-un-repositorio)
   - [Fuentes documentales](#fuentes-documentales)
   - [Licencia de uso](#licencia-de-uso)
 
@@ -208,6 +209,37 @@ Un buen README debe tener al menos estos elementos:
   inclúyela en un archivo que se llame **LICENSE**.
 
 *Si tienes duda respecto a las licencias de uso, visita:* http://choosealicense.com/
+
+--------------------------------------------------------------------------------
+
+# Gestionar un repositorio
+
+> La mayoría de los problemas de nuestro trabajo no son tanto técnicos como sociológicos en su naturaleza.
+>   - [Peopleware: Productive Projects and Teams](http://www.amazon.com/Peopleware-Productive-Projects-Teams-Edition/dp/0321934113)
+
+Uno de los retos más grandes de un proyecto *open source*, es lidiar con
+las personas.
+Cuando facilitas la comunicación, haciendo **explícitas** las **tareas**
+y **metas** que se quieren cumplir, no suele ser tan complicado.
+
+Para ésto, hay metodologías que se pueden seguir, la más utilizada
+en el desarrollo de software es la [ágil](https://es.wikipedia.org/wiki/Desarrollo_%C3%A1gil_de_software)
+
+Una vez que escribes una definición del proyecto ([README](#readme)),
+puedes empezar a definir **tareas** y **metas** explícitas.
+
+Algunas herramientas de  **GitHub** te permiten tener todo centralizado:
+
+  - **Issues**: Tareas que se necesiten cumplir, ya sea arreglar un problema
+  o agregar una mejora al proyecto.
+
+  - **Labels**: Etiquetas para categorizar las tareas
+
+  - **Milestones**: Metas u objetivos, están compuestos de muchas tareas.
+
+  - **Pull requests**: **Petición de algún cambio**, ya sea agregar o quitar
+  información del repositorio (archivos, lineas de código, arreglar errores,
+    implementar mejoras, etc.)
 
 --------------------------------------------------------------------------------
 
