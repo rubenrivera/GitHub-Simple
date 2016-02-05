@@ -21,6 +21,7 @@ Indice:
       * [Contenido de un README](#contenido-de-un-readme)
   - [Gestionar un repositorio](#gestionar-un-repositorio)
     + [Issues](#issues)
+    + [Milestones](#milestones)
   - [Fuentes documentales](#fuentes-documentales)
   - [Licencia de uso](#licencia-de-uso)
 
@@ -259,6 +260,18 @@ referencias explicando **qué quieres** y **cómo lo quieres**.
 
 Después de que hayan escrito algunas, se verán algo así:
 ![Github open issues](/images/github-open-issues.png)
+
+
+## Milestones
+En sí, es un conjunto de tareas. Puede ser un lanzamiento, una
+módulo del proyecto, una revisión, etc. Incluyen una **descripción**,
+**fecha**, y las **tareas** que se necesitan cumplir para lograr ese objetivo.
+
+Se puede decir que los **issues** son metas a corto plazo y los **milestones**
+son a largo plazo.
+
+La pantalla de los milestones se ve algo similar:
+![Github Milestones](/images/github-milestones.png)
 
 --------------------------------------------------------------------------------
 
