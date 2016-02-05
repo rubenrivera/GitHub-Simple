@@ -23,6 +23,7 @@ Indice:
     + [Issues](#issues)
     + [Labels](#labels)
     + [Milestones](#milestones)
+    + [Herramientas alternativas](#herramientas-alternativas)
   - [Fuentes documentales](#fuentes-documentales)
   - [Licencia de uso](#licencia-de-uso)
 
@@ -279,6 +280,17 @@ son a largo plazo.
 
 La pantalla de los milestones se ve algo similar:
 ![Github Milestones](/images/github-milestones.png)
+
+
+## Herramientas alternativas
+Existen herramientas que te pueden ayudar a administrar mejor tu repositorio.
+Si estás acostumbrado a utilizar un [Kanban](https://es.wikipedia.org/wiki/Kanban)
+para tus tareas, puedes utilizar [Waffle.io](https://waffle.io/).
+
+Puedes encontrar más integraciones de GitHub en: https://github.com/integrations
+
+*El consumo excesivo de integraciones puede ser dañino para
+la salud de un proyecto. Integra con medida.*
 
 --------------------------------------------------------------------------------
 
