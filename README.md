@@ -21,6 +21,7 @@ Indice:
       * [Contenido de un README](#contenido-de-un-readme)
   - [Gestionar un repositorio](#gestionar-un-repositorio)
     + [Issues](#issues)
+    + [Labels](#labels)
     + [Milestones](#milestones)
   - [Fuentes documentales](#fuentes-documentales)
   - [Licencia de uso](#licencia-de-uso)
@@ -260,6 +261,12 @@ referencias explicando **qué quieres** y **cómo lo quieres**.
 
 Después de que hayan escrito algunas, se verán algo así:
 ![Github open issues](/images/github-open-issues.png)
+
+
+## Labels
+Se traduce al español como **etiquetas**, sirve para categorizar tareas.
+La pantalla se ve algo así, ahí pueden agregar, editar, y eliminar etiquetas:
+![Github Labels](/images/github-labels.png)
 
 
 ## Milestones
