@@ -14,6 +14,7 @@ Indice:
     + [¿Entonces...?](#entonces)
     + [¿Cómo hago una cuenta?](#c%C3%B3mo-hago-una-cuenta)
   - [Repositorios](#repositorios)
+    + [Crea un repositorio](#crea-un-repositorio)
     + [Encabezado](#encabezado)
       * [Panel de Código](#panel-de-c%C3%B3digo)
     + [README](#readme)
@@ -100,18 +101,55 @@ de texto llena tu `nombre de usuario`, `correo electrónico`, y `contraseña`.
 Si ya tienes un proyecto en el que estés trabajando, ve al repositorio.
 El enlace se debe de ver algo así:
 `http://github.com/usuario/nombre-del-repositorio`
+O puedes [crear un repositorio](#crea-un-repositorio)
 
 --------------------------------------------------------------------------------
 
 # Repositorios
 Es el lugar donde están todos los archivos del proyecto, incluyendo la
 documentación. Los repositorios pueden tener multiples colaboradores y pueden
-ser **publicos** o **privados**.
+ser **publicos** (que el acceso esté **abierto** a cualquiera) o **privados**
+(**restringe** el acceso a las personas que autorices).
 
 Un repositorio se ve así:
 ![Repositorio de GitHub](images/github-repository.png)
 
 Repasaremos la interfaz del repositorio, empezando de arriba hacia abajo.
+Pero primero, crearemos uno.
+
+
+## Crea un repositorio
+En la esquina superior derecha, dale click en el ícono de `+`, seguido
+de `New repository`:
+![Github new repository](images/github-new-repository.png)
+
+Y te va a llevar a una página similar a esta:
+![Github create repository](images/github-create-repository.png)
+
+Vienen varios campos que tienes que llenar:
+
+  - **Owner**: El dueño del repositorio (puedes ser tú o alguna organización
+  a la que pertenezcas).
+
+  - **Repository name**: Un nombre corto y memorable para identificarlo.
+
+  - **Description**: Descripción breve del contenido.
+
+  - **Public / Private**: Si el acceso eso **abierto** o **restringido**.
+
+  - **Initialize with README**: Añade un [README](#readme) al repositorio.
+
+  - **Add .gitignore**: Es un archivo de texto que le dice a **Git** qué
+  archivos ignorar. Por ejemplo, si no quieres tener archivos *PDF*, en el
+  `.gitignore` escribes `*.pdf`, o si tienes una carpeta que se llama
+  `Pruebas` y no la quieres incluir, escribres `Pruebas/`.
+
+  - **Add a license**: Sólo por que tus archivos estén en internet, no
+  significa que sean libres de usar o de dominio público.
+  Esta opción genera un archivo que se llama **LICENSE**, y deja en claro qué
+  se puede hacer con los archivos y qué no.
+
+*Si tienes duda respecto a las licencias de uso, visita:* http://choosealicense.com/
 
 
 ## Encabezado
@@ -209,12 +247,10 @@ Un buen README debe tener al menos estos elementos:
   material de otros proyectos. También les ayuda a los contribuyentes a tener una
   perspectiva más amplia.
 
-  - **Licencia de uso**: Sólo por que tus archivos estén en internet, no
-  significa que sean libres de usar o de dominio público. Deja en claro qué
-  se puede hacer con los archivos y qué no. Si la licencia es muy larga,
-  inclúyela en un archivo que se llame **LICENSE**.
-
-*Si tienes duda respecto a las licencias de uso, visita:* http://choosealicense.com/
+  - **Licencia de uso**: En la [creación de un repositorio](#crea-un-repositorio)
+  hablamos al respecto. Esta licencia puede ir en un archivo llamado **LICENSE**
+  o incluido en el README. *Si está en LICENSE no olvides mencionarlo en el
+  README*.
 
 
 ### Ejemplos de READMEs
