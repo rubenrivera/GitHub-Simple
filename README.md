@@ -19,6 +19,7 @@ Indice:
     + [README](#readme)
       * [Desarrollo Guiado por README](#desarrollo-guiado-por-readme)
       * [Contenido de un README](#contenido-de-un-readme)
+      * [Ejemplos de READMEs](#ejemplos-de-readmes)
   - [Gestionar un repositorio](#gestionar-un-repositorio)
     + [Issues](#issues)
     + [Labels](#labels)
@@ -214,6 +215,33 @@ Un buen README debe tener al menos estos elementos:
   inclúyela en un archivo que se llame **LICENSE**.
 
 *Si tienes duda respecto a las licencias de uso, visita:* http://choosealicense.com/
+
+
+### Ejemplos de READMEs
+Una lista de READMEs para ejemplificar casos de buenas prácticas.
+
+  - [Deep Belief SDK](https://github.com/jetpacapp/DeepBeliefSDK): Descripción,
+  tabla de contenido, instrucciones de uso muy claras, instalación, ejemplos
+  de uso, preguntas frecuentes, licencia, créditos.
+
+  - [twtxt](https://github.com/buckket/twtxt): Descripción, demostración en
+  video, tabla de contenido, instrucciones de uso muy claras, contribuciones,
+  licencia.
+
+  - [GrapeJS](https://github.com/artf/grapesjs): Descripción, características
+  con imágenes, instrucciones de uso muy claras, instalación, contribución,
+  licencia.
+
+  - [PHP brew](https://github.com/phpbrew/phpbrew): Descrpición, traducciones (chino),
+  instalación, instrucciones de uso muy claras, guía de contribución,
+  documentación, licencia.
+
+  - [spf13-Vim](https://github.com/spf13/spf13-vim): Descripción, instalación,
+  imágenes, instrucciones de uso muy claras, licencia.
+
+  - [Underscore CLI](https://github.com/ddopson/underscore-cli): Descripción,
+  instalación, ejemplos con imágenes, instrucciones de uso muy claras, cómo
+  reportar erroes, inspiración, licencia.
 
 --------------------------------------------------------------------------------
 
