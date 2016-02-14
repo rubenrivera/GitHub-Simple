@@ -129,7 +129,8 @@ También hay tres botones que representan acciones:
   *Si quieres ordenar tus Stars puedes utilizar [AstralApp](http://astralapp.com/)*
 
   - ![Fork](/images/github-fork.png): Haces una **copia** del repositorio en tu
-  cuenta de GitHub. Así puedes hacer cambios sin afectar el original.
+  cuenta de GitHub *(recuerda las fotocopias que se llevaron Beto y tú)*, así
+  puedes hacer cambios sin afectar el original.
   También te permite **sugerir cambios** y **traer actualizaciones** del original a tu *fork*.
   Se utilizan para **iterar** sobre **ideas** e **implementaciones**
   manteniendo el original intacto.
