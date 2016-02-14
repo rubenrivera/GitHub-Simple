@@ -256,7 +256,9 @@ Cuando facilitas la comunicación, haciendo **explícitas** las **tareas**
 y **metas** que se quieren cumplir, no suele ser tan complicado.
 
 Para ésto, hay metodologías que se pueden seguir, la más utilizada
-en el desarrollo de software es la [ágil](https://es.wikipedia.org/wiki/Desarrollo_%C3%A1gil_de_software)
+en el desarrollo de software es la [ágil](https://es.wikipedia.org/wiki/Desarrollo_%C3%A1gil_de_software).
+**Te recomiendo leer más sobre desarrollo ágil, ya que te ayudará a organizarte
+mejor con tu equipo**
 
 Una vez que escribes una definición del proyecto ([README](#readme)),
 puedes empezar a definir **tareas** y **metas** explícitas.
