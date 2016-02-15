@@ -27,6 +27,7 @@ Indice:
     + [Milestones](#milestones)
     + [Herramientas alternativas](#herramientas-alternativas)
   - [Documentación](#documentaci%C3%B3n)
+    + [Wiki](#wiki)
   - [Fuentes documentales](#fuentes-documentales)
   - [Licencia de uso](#licencia-de-uso)
 
@@ -378,7 +379,19 @@ el **propósito** de tu proyecto, no lo usarán ni serán contribuyentes.
 La primera documentación que se debe escribir es el [README](#readme).
 
 Una vez que esté más estructurado el proyecto, puedes expandir la documentación
-a una Wiki.
+a una [Wiki](#wiki).
+
+
+## Wiki
+Es una de las herramientas que proveé GitHub. Un lugar centralizado para
+documentación.
+
+Está compuesta de páginas, como un libro.
+
+![GitHub wiki](/images/github-wiki.png)
+
+**Para más información sobre una Wiki visita la nuestra aquí**:
+[Wiki de GitHub-Simple](https://github.com/MrOutis/GitHub-Simple/wiki/P%C3%A1gina-inicial)
 
 --------------------------------------------------------------------------------
 
