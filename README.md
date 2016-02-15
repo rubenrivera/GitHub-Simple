@@ -26,6 +26,7 @@ Indice:
     + [Labels](#labels)
     + [Milestones](#milestones)
     + [Herramientas alternativas](#herramientas-alternativas)
+  - [Documentación](#documentaci%C3%B3n)
   - [Fuentes documentales](#fuentes-documentales)
   - [Licencia de uso](#licencia-de-uso)
 
@@ -361,11 +362,33 @@ la salud de un proyecto. Integra con medida.*
 
 --------------------------------------------------------------------------------
 
+# Documentación
+> Estarás usando tu c­­ódigo dentro de 6 meses.
+>   - [Write the docs](http://docs.writethedocs.org)
+
+La mejor razón para escribir documentación, es por que **tenemos mala memoría**.
+Cuando querramos retomar el proyecto, se nos habrá olvidado la mayoría de las
+cosas. *Sí tan solo hubiera escrito el por qué de esto, la vida sería más
+simple*.
+
+**La documentacíon expesa lo que hay detrás del código**.
+Se enfoca en el **por qué** en lugar del cómo. Sí las personas no saben
+el **propósito** de tu proyecto, no lo usarán ni serán contribuyentes.
+
+La primera documentación que se debe escribir es el [README](#readme).
+
+Una vez que esté más estructurado el proyecto, puedes expandir la documentación
+a una Wiki.
+
+--------------------------------------------------------------------------------
+
 # Fuentes documentales
   - [Explicación sencilla de Git](https://www.reddit.com/r/explainlikeimfive/comments/jgoxv/eli5_how_do_you_use_git_and_github/)
   - [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)
   - [Awesome README](https://github.com/matiassingers/awesome-readme)
   - [Guías de GitHub](https://guides.github.com/)
+  - [Guía corta para escribir guías](https://gist.github.com/coderoshi/3729593)
+  - [Write the docs](http://docs.writethedocs.org)
 
 --------------------------------------------------------------------------------
 
