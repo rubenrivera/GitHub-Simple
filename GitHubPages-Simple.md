@@ -2,13 +2,13 @@
 
 ## Introducción
 
-Usa [GitHub Pages][1] y el gestor de temas [Jekyll][2] para crear un sitio web de páginas estáticas que todo mundo pueda ver de forma muy sencilla.
+Usa [GitHub Pages][1] y el gestor de temas [Jekyll][2] para crear un sitio web de páginas estáticas que todo mundo pueda ver de forma muy sencilla. Los pasos indicados en esta guía se llevan a cabo complementamente usando un navegador web, sin necesidad de comandos de línea. Para conocer más sobre GitHub ve a [GitHub Simple][3].
 
 ## Instrucciones
 
 ### Crea un repositorio / sitio web en GitHub Pages
 
-1. Si aún no la tienes, crea una cuenta en [GitHub][3].
+1. Si aún no la tienes, crea una cuenta en [GitHub][4].
 2. Crea un nuevo repositorio usando `nombredeusario.github.io` como nombre del mismo.
 3. Haz clic en "Settings".
 4. En la sección de GitHub Pages haz clic en "Choose a theme".
@@ -23,7 +23,7 @@ Usa [GitHub Pages][1] y el gestor de temas [Jekyll][2] para crear un sitio web d
 1. Agrega tu código y guárdalo.
 1. Ve al enlace de la página, `nombredeusario.github.io/mipagina.html` y revisa el resultado.  
 
-#### Ejemplo parcial
+#### Ejemplo simple
 
 ##### Repositorio  
 
@@ -49,10 +49,11 @@ https://rubenrivera.github.io/holamundo.html
 
 # Referencias
 
-[Creating a GitHub Pages site with the Jekyll Theme Chooser][4]
+[Creating a GitHub Pages site with the Jekyll Theme Chooser][5]
 
 
   [1]: https://pages.github.com/
   [2]: https://jekyllrb.com/
-  [3]: http://github.com
-  [4]: https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/
+  [3]: /README.md
+  [4]: http://github.com
+  [5]: https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/
