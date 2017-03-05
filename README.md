@@ -12,12 +12,13 @@ Indice:
     + [¿Qué es Git?](#qu%C3%A9-es-git)
     + [¿Y el Hub?](#y-el-hub)
     + [¿Entonces...?](#entonces)
+    + [Y GitHub Pages, ¿qué es?](#y-github-pages-qu%C3%A9-es)
     + [¿Cómo hago una cuenta?](#c%C3%B3mo-hago-una-cuenta)
   - [Repositorios](#repositorios)
     + [Crea un repositorio](#crea-un-repositorio)
     + [Encabezado](#encabezado)
       * [Panel de Código](#panel-de-c%C3%B3digo)
-    + [README](#readme)
+    + [¿Qué es README?](#qué-es-readme)
       * [Desarrollo Guiado por README](#desarrollo-guiado-por-readme)
       * [Contenido de un README](#contenido-de-un-readme)
       * [Ejemplos de READMEs](#ejemplos-de-readmes)
@@ -91,6 +92,11 @@ Crear una cuenta en **GitHub** es gratuito, siempre y cuando tus proyectos sean
 abiertos al público. Si quieres restringir el acceso a tus proyectos puedes
 pagar por ello una subscripción mensual.
 
+## Y GitHub Pages, ¿qué es?
+GitHub Pages es un servicio para mostrarle a todo el mundo el contenido que hayas 
+puesto en un respositorio en GitHub. Si te urgen instrucciones rápidas para 
+crear tu sitio web, ve a [GitHub Pages Simple](/docs/GitHubPages-Simple.md), pero
+te recomendamos que sigas leyendo.
 
 ## ¿Cómo hago una cuenta?
 Ingresa a la página principal de [Github](https://github.com) y en los campos
@@ -190,8 +196,8 @@ Algunas métricas y acciones de **Git**.
 Y un listado de archivos que contiene el repositorio.
 
 
-## README
-Es el documento que da la **bienvenida** a tu projecto.
+## ¿Qué es README?
+Es el documento que da la **bienvenida** a tu proyecto.
 
 ![README en GitHub](/images/github-readme.png)
 
