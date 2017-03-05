@@ -12,7 +12,7 @@ Indice:
     + [¿Qué es Git?](#qu%C3%A9-es-git)
     + [¿Y el Hub?](#y-el-hub)
     + [¿Entonces...?](#entonces)
-    + [Y GitHub Pages, ¿qué es?](#y-github-pages%2C-qu%C3%A9-es)
+    + [Y GitHub Pages, ¿qué es?](#y-github-pages-qu%C3%A9-es)
     + [¿Cómo hago una cuenta?](#c%C3%B3mo-hago-una-cuenta)
   - [Repositorios](#repositorios)
     + [Crea un repositorio](#crea-un-repositorio)
