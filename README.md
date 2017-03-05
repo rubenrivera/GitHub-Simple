@@ -12,6 +12,7 @@ Indice:
     + [¿Qué es Git?](#qu%C3%A9-es-git)
     + [¿Y el Hub?](#y-el-hub)
     + [¿Entonces...?](#entonces)
+    + [Y GitHub Pages, ¿qué es?](#y-github-pages%2C-qu%C3%A9-es)
     + [¿Cómo hago una cuenta?](#c%C3%B3mo-hago-una-cuenta)
   - [Repositorios](#repositorios)
     + [Crea un repositorio](#crea-un-repositorio)
@@ -91,6 +92,11 @@ Crear una cuenta en **GitHub** es gratuito, siempre y cuando tus proyectos sean
 abiertos al público. Si quieres restringir el acceso a tus proyectos puedes
 pagar por ello una subscripción mensual.
 
+## Y GitHub Pages, ¿qué es?
+GitHub Pages es un servicio para mostrarle a todo el mundo el contenido que hayas 
+puesto en un respositorio en GitHub. Si te urgen una instrucciones rápidas para 
+crear tu sitio web, ve a [GitHub Pages Simple](/docs/GitHubPages-Simple.md), pero
+te reomendamos que sigas leyendo.
 
 ## ¿Cómo hago una cuenta?
 Ingresa a la página principal de [Github](https://github.com) y en los campos
