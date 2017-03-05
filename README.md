@@ -18,7 +18,7 @@ Indice:
     + [Crea un repositorio](#crea-un-repositorio)
     + [Encabezado](#encabezado)
       * [Panel de Código](#panel-de-c%C3%B3digo)
-    + [README](#readme)
+    + [¿Qué es README?](#qué-es-readme)
       * [Desarrollo Guiado por README](#desarrollo-guiado-por-readme)
       * [Contenido de un README](#contenido-de-un-readme)
       * [Ejemplos de READMEs](#ejemplos-de-readmes)
@@ -196,7 +196,7 @@ Algunas métricas y acciones de **Git**.
 Y un listado de archivos que contiene el repositorio.
 
 
-## README
+## ¿Qué es README?
 Es el documento que da la **bienvenida** a tu projecto.
 
 ![README en GitHub](/images/github-readme.png)
