@@ -2,11 +2,11 @@
 
 ## Introducción
 
-Es muy sencillo usar [GitHub Pages][1] y el gestor de temas [Jekyll][2] para crear un sitio web de páginas estáticas que todo mundo pueda ver. Los pasos indicados en esta guía se llevan a cabo complementamente usando un navegador web, sin necesidad de comandos de línea. Para tener tu sitio web en "un tris", sigue las instrucciones de esta página, para conocer más sobre GitHub ve a [GitHub Simple][3].
+Es muy sencillo usar [GitHub Pages][1] y el gestor de temas [Jekyll][2] para crear un sitio web de [páginas estáticas](https://es.wikipedia.org/wiki/P%C3%A1gina_web#P.C3.A1ginas_est.C3.A1ticas_versus_p.C3.A1ginas_din.C3.A1micas) que todo mundo pueda ver. Los pasos indicados en esta guía se llevan a cabo complementamente usando un navegador web, sin necesidad de comandos de línea. Para tener tu sitio web en "un tris", sigue las instrucciones de esta página, para conocer más sobre GitHub ve a [GitHub Simple][3].
 
 ## Instrucciones abreviadas
 
-A continuación se enumeran los pasos a realizar de forma muy breve, digámos como [apunte escodido](https://es.wikipedia.org/wiki/Apunte_escondido).
+A continuación se enumeran los pasos a realizar de forma muy breve, digamos a manera de [apunte escodido](https://es.wikipedia.org/wiki/Apunte_escondido).
 
 ### Crea un repositorio / sitio web en GitHub Pages
 
