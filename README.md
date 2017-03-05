@@ -94,9 +94,9 @@ pagar por ello una subscripción mensual.
 
 ## Y GitHub Pages, ¿qué es?
 GitHub Pages es un servicio para mostrarle a todo el mundo el contenido que hayas 
-puesto en un respositorio en GitHub. Si te urgen una instrucciones rápidas para 
+puesto en un respositorio en GitHub. Si te urgen instrucciones rápidas para 
 crear tu sitio web, ve a [GitHub Pages Simple](/docs/GitHubPages-Simple.md), pero
-te reomendamos que sigas leyendo.
+te recomendamos que sigas leyendo.
 
 ## ¿Cómo hago una cuenta?
 Ingresa a la página principal de [Github](https://github.com) y en los campos
@@ -197,7 +197,7 @@ Y un listado de archivos que contiene el repositorio.
 
 
 ## ¿Qué es README?
-Es el documento que da la **bienvenida** a tu projecto.
+Es el documento que da la **bienvenida** a tu proyecto.
 
 ![README en GitHub](/images/github-readme.png)
 
