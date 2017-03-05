@@ -10,12 +10,12 @@ A continuación se enumeran los pasos a realizar de forma muy breve, digamos a m
 
 ### Crea un repositorio / sitio web en GitHub Pages
 
-1. Si aún no la tienes, [crea una cuenta](../README.md#cómo-hago-una-cuenta) en [GitHub][4].
-2. [Crea un nuevo repositorio](../README.md#crea-un-repositorio) usando `nombredeusario.github.io` como nombre del mismo.
+1. Si aún no la tienes, [crea una cuenta](README.md#cómo-hago-una-cuenta) en [GitHub][4].
+2. [Crea un nuevo repositorio](README.md#crea-un-repositorio) usando `nombredeusario.github.io` como nombre del mismo.
 3. Haz clic en "Settings".
 4. En la sección de GitHub Pages haz clic en "Choose a theme".
 5. Revisa los temas y escoge uno.
-6. Te dará la opción de editar el archivo [README.md](../README.md#qué-es-readme). Haz clic e el botón "Cancel" para editarlo posteriormente.
+6. Te dará la opción de editar el archivo [README.md](README.md#qué-es-readme). Haz clic e el botón "Cancel" para editarlo posteriormente.
 
    > Nota: Mientras no haya una página de inicio personalizada, README.md se mostrará como la página de inicio del sitio web.
 
