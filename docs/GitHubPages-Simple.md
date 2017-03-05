@@ -2,30 +2,60 @@
 
 ## Introducción
 
-Usa [GitHub Pages][1] y el gestor de temas [Jekyll][2] para crear un sitio web de páginas estáticas que todo mundo pueda ver de forma muy sencilla. Los pasos indicados en esta guía se llevan a cabo complementamente usando un navegador web, sin necesidad de comandos de línea. Para conocer más sobre GitHub ve a [GitHub Simple][3].
+Es muy sencillo usar [GitHub Pages][1] y el gestor de temas [Jekyll][2] para crear un sitio web de páginas estáticas que todo mundo pueda ver. Los pasos indicados en esta guía se llevan a cabo complementamente usando un navegador web, sin necesidad de comandos de línea. Para tener tu sitio web en "un tris", sigue las instrucciones de esta página, para conocer más sobre GitHub ve a [GitHub Simple][3].
 
-## Instrucciones
+## Instrucciones abreviadas
+
+A continuación se enumeran los pasos a realizar de forma muy breve, digámos como [apunte escodido](https://es.wikipedia.org/wiki/Apunte_escondido).
 
 ### Crea un repositorio / sitio web en GitHub Pages
 
-1. Si aún no la tienes, crea una cuenta en [GitHub][4]. Detálles en [¿Cómo hago una cuenta?](https://github.com/rubenrivera/GitHub-Simple/blob/GitHubPages-Simple/README.md#cómo-hago-una-cuenta)
-2. Crea un nuevo repositorio usando `nombredeusario.github.io` como nombre del mismo.
+1. Si aún no la tienes, [crea una cuenta](../README.md#cómo-hago-una-cuenta) en [GitHub][4].
+2. [Crea un nuevo repositorio](../README.md#crea-un-repositorio)) usando `nombredeusario.github.io` como nombre del mismo.
 3. Haz clic en "Settings".
 4. En la sección de GitHub Pages haz clic en "Choose a theme".
 5. Revisa los temas y escoge uno.
-6. Te dará la opción de editar el archivo README.md.
-   > Mientras no haya una página de inicio README.md se mostrará como la página de inicio.
+6. Te dará la opción de editar el archivo [README.md](../README.md#qué-es-readme). Haz clic e el botón "Cancel" para editarlo posteriormente.
 
-### Crea una nueva página para probar tu código html
+   > Nota: Mientras no haya una página de inicio personalizada, README.md se mostrará como la página de inicio del sitio web.
 
-1. Ve al repositorio en GitHub.  
-1. Agrega una página.  
-1. Agrega el nombre de archivo con extensión .html.
-  > Nota: Salvo que cambies la configuración de tu sitio `index.html` será usado como página de inicio.
-1. Agrega tu código y guárdalo.
+### Crea una nueva página usando Markdown
+
+Puedes usar archivos [Markdown](https://es.wikipedia.org/wiki/Markdown) para compartir tu contenido como página web accesible por todo el mundo. [Jekyll][2] lo convertirá por tí en un formato que los navegadores web pueden interpretar como páginas web.
+
+1. Ve al repositorio en GitHub en el que agregarás tu contenido.
+1. Haz clic en el botón `Create new file` para agregar un nuevo archivo.
+1. Agrega el nombre de archivo incluyendo la extensión `.md`.
+1. Agrega tu contenido.
+1. Haz clic en la pestaña `Preview` para revisar cómo se vería sin los efectos de diseño de la plantilla.
+1. Haz clic en el botón `Commit new file` para guárdarlo.
+1. Ve al enlace de la página, `nombredeusario.github.io/mipagina.md` y revisa el resultado.  
+
+#### Ejemplo Markdown simple
+
+##### Repositorio
+
+https://github.com/rubenrivera/rubenrivera.github.io/
+
+##### Enlace al archivo en GitHub
+
+https://github.com/rubenrivera/rubenrivera.github.io/blob/master/README.md
+
+### Crea una nueva página usando código HTML
+
+Puedes usar archivos [HTML](https://es.wikipedia.org/wiki/HTML) para compartir tu contenido.
+
+1. Ve al repositorio en GitHub en el que agregarás tu contenido.  
+1. Haz clic en el botón `Commit new file` para agregar una nueva página.  
+1. Agrega el nombre de archivo incluyendo la extensión `.html`.
+
+  > Nota: Salvo que cambies la configuración de tu sitio `index.html` será usado como página de inicio  y por excepción `README.md`.
+
+1. Agrega tu código.
+1. Haz clic en el botón `Commit new file` para guárdarlo.
 1. Ve al enlace de la página, `nombredeusario.github.io/mipagina.html` y revisa el resultado.  
 
-#### Ejemplo simple
+#### Ejemplo HTML simple
 
 ##### Repositorio  
 
@@ -51,11 +81,16 @@ https://rubenrivera.github.io/holamundo.html
 
 # Véase también
 
+## Guías oficiales de GitHub
+
 [Getting Started with GitHub Pages][5]
+[Mastering Markdown][6]
 
 # Referencias
 
-[Creating a GitHub Pages site with the Jekyll Theme Chooser][6]
+## Ayuda oficial de GitHub
+
+[Creating a GitHub Pages site with the Jekyll Theme Chooser][7]
 
 
   [1]: https://pages.github.com/
@@ -63,4 +98,5 @@ https://rubenrivera.github.io/holamundo.html
   [3]: /README.md
   [4]: http://github.com
   [5]: https://guides.github.com/features/pages/
-  [6]: https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/
+  [6]: https://guides.github.com/features/mastering-markdown/
+  [7]: https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/
