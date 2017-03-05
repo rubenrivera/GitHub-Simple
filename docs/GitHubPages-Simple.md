@@ -37,6 +37,10 @@ Puedes usar archivos [Markdown](https://es.wikipedia.org/wiki/Markdown) para com
 
 https://github.com/rubenrivera/rubenrivera.github.io/
 
+##### Fuente en Markdown adaptación de contenido predeterminado para README.md
+
+https://raw.githubusercontent.com/rubenrivera/rubenrivera.github.io/master/README.md
+
 ##### Enlace al archivo en GitHub
 
 https://github.com/rubenrivera/rubenrivera.github.io/blob/master/README.md
